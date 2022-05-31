@@ -1,5 +1,7 @@
 # eShoppingSimple
 
+https://www.codemag.com/Article/2109061/Efficient-Microservice-Development-with-.NET-5
+
 This repository contains three different solutions:
 
 * eShoppingSimple.Orders.sln
